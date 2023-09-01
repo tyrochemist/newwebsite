@@ -2,7 +2,7 @@
 layout: Stylesheet 
 --- 
 @import "fruity.css";
-
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
 
 html,
 html[data-theme="light"] {
